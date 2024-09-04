@@ -2,6 +2,7 @@ body{
     
     background-color: rgb(255, 255, 255);
     text-align: center;
+    background-size: cover;
 }
 .conteudo1{
     background-size: cover;
