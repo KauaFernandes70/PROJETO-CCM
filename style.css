@@ -12,3 +12,6 @@ body{
     height: 200px;
 }
 
+.conteudo2{
+    display: flex;
+}
